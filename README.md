@@ -1,11 +1,5 @@
-
 <!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.15.2 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
+
 <html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
@@ -165,14 +159,14 @@
       
 
       
-        <img src="/images/professional.jpg" alt="Shravan Kuchkula" itemprop="image">
+        <img src="/images/professional.jpg" alt="David Lovisek" itemprop="image">
       
     </div>
   
 
   <div class="author__content">
     
-      <h3 class="author__name" itemprop="name">Shravan Kuchkula</h3>
+      <h3 class="author__name" itemprop="name">David Lovisek</h3>
     
     
       <p class="author__bio" itemprop="description">
@@ -193,19 +187,18 @@
       
         
           
-            <li><a href="mailto:shravan.kuchkula@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+            <li><a href="mailto:dlovisek@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
           
         
           
-            <li><a href="https://twitter.com/shra1" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-          
+                  
         
           
             <li><a href="https://www.linkedin.com/in/david-lovisek-84168018/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> Linkedin</a></li>
           
         
           
-            <li><a href="https://github.com/shravan-kuchkula" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+            <li><a href="https://github.com/dlovisek" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
           
         
           
@@ -434,7 +427,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 Shravan Kuchkula. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2020 David Lovisek. </div>
 
       </footer>
     </div>
