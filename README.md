@@ -1,4 +1,4 @@
-# DataSciencePortfolio
+
 <!doctype html>
 <!--
   Minimal Mistakes Jekyll Theme 4.15.2 by Michael Rose
@@ -19,7 +19,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Data Science Portfolio">
 <meta property="og:title" content="About">
-<meta property="og:url" content="https://shravan-kuchkula.github.io/about/">
+<meta property="og:url" content="https://dlovisek.github.io/DataSciencePortfolio/">
 
 
 
@@ -37,7 +37,7 @@
   
 
 
-<link rel="canonical" href="https://shravan-kuchkula.github.io/about/">
+<link rel="canonical" href="https://dlovisek.github.io/DataSciencePortfolio/">
 
 
 
@@ -49,8 +49,8 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "name": "Shravan Kuchkula",
-      "url": "https://shravan-kuchkula.github.io",
+      "name": "David Lovisek",
+      "url": "https://dlovisek.github.io",
       "sameAs": null
     }
   </script>
@@ -201,7 +201,7 @@
           
         
           
-            <li><a href="https://www.linkedin.com/in/shravan-kuchkula/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> Linkedin</a></li>
+            <li><a href="https://www.linkedin.com/in/david-lovisek-84168018/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> Linkedin</a></li>
           
         
           
