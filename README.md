@@ -378,68 +378,6 @@
 
   
   
-</div>
-
-    </div>
-
-    
-      <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-    <div id="results" class="results"></div></div>
-
-      </div>
-    
-
-    <div class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
-    
-      <li><strong>Follow:</strong></li>
-    
-
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2020 David Lovisek. </div>
-
-      </footer>
-    </div>
-
-    
-  <script src="/assets/js/main.min.js"></script>
-  <script data-search-pseudo-elements defer src="https://use.fontawesome.com/releases/v5.7.1/js/all.js" integrity="sha384-eVEQC9zshBn0rFj4+TU78eNA19HMNigMviK/PU/FFjLXqa/GKPgX58rvt5Z8PLs7" crossorigin="anonymous"></script>
-
-
-
-
-<script src="/assets/js/lunr/lunr.min.js"></script>
-<script src="/assets/js/lunr/lunr-store.js"></script>
-<script src="/assets/js/lunr/lunr-en.js"></script>
-
-
-
-
 
   </body>
 </html>
