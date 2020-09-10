@@ -5,9 +5,14 @@
 <!-- begin _includes/seo.html --><title>About - Data Science Portfolio</title>
 <meta name="description" content="Data Science Portfolio">
 
-Menu::create('navbar', function($menu) {
-    // define your menu items here
-});
+<details>
+  <summary>Robots</summary>
+  <details-menu role="menu">
+    <button type="button" role="menuitem">Hubot</button>
+    <button type="button" role="menuitem">Bender</button>
+    <button type="button" role="menuitem">BB-8</button>
+  </details-menu>
+</details>
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
