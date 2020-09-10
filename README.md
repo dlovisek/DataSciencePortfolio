@@ -357,27 +357,4 @@
 
 
 
-        
-      </section>
 
-      <footer class="page__meta">
-        
-        
-
-
-        
-      </footer>
-
-      
-
-      
-    </div>
-
-    
-  </article>
-
-  
-  
-
-  </body>
-</html>
