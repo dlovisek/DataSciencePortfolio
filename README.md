@@ -5,7 +5,9 @@
 <!-- begin _includes/seo.html --><title>About - Data Science Portfolio</title>
 <meta name="description" content="Data Science Portfolio">
 
-
+Menu::create('navbar', function($menu) {
+    // define your menu items here
+});
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
