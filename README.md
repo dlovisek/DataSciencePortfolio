@@ -1,5 +1,3 @@
-<!doctype html>
-
 <html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
@@ -308,30 +306,9 @@
 
 <p>Through work experience and coursework I have deepened my understanding of <strong>Statistics</strong>, <strong>Experimental Design</strong>, <strong>Machine Learning</strong> and <strong>Natural Language Processing</strong>. I have done several projects which make use of skills from Data Engineering and Data Science to answer questions using data.</p>
 
-<p>I consider myself a hybrid of a Data Engineer and Data Scientist.</p>
 
-<h2 id="data-engineering-skills-and-tools">Data Engineering skills and tools</h2>
-<ul>
-  <li><strong>Languages</strong>: <code class="language-plaintext highlighter-rouge">Python</code>, <code class="language-plaintext highlighter-rouge">SQL</code>, <code class="language-plaintext highlighter-rouge">Java</code></li>
-  <li><strong>Databases</strong>: Postgres, Mysql, Oracle, AWS RDS, DynamoDB, RedShift</li>
-  <li><strong>Modeling</strong>: Dimensional data modeling</li>
-  <li><strong>Batch ETL</strong>: Python, <code class="language-plaintext highlighter-rouge">SparkSQL</code></li>
-  <li><strong>Streaming ETL</strong>: <code class="language-plaintext highlighter-rouge">Kafka</code>, <code class="language-plaintext highlighter-rouge">Faust</code>, <code class="language-plaintext highlighter-rouge">KSQL</code>, <code class="language-plaintext highlighter-rouge">Spark Streaming</code></li>
-  <li><strong>Workflow Management</strong>: <code class="language-plaintext highlighter-rouge">Airflow</code></li>
-</ul>
 
 <p><a href="https://dlovisek.github.io/data-engineering/" class="btn btn--success">Data Engineering Projects</a></p>
-
-<h2 id="data-science-skills-and-tools">Data Science skills and tools</h2>
-<ul>
-  <li><strong>Languages</strong>: <code class="language-plaintext highlighter-rouge">Python</code>, <code class="language-plaintext highlighter-rouge">R</code>, <code class="language-plaintext highlighter-rouge">SQL</code>, <code class="language-plaintext highlighter-rouge">MATLAB</code>, <code class="language-plaintext highlighter-rouge">SAS</code></li>
-  <li><strong>Deep Learning</strong>: <code class="language-plaintext highlighter-rouge">PyTorch</code>, <code class="language-plaintext highlighter-rouge">TensorFlow</code></li>
-  <li><strong>Machine Learning</strong>: <code class="language-plaintext highlighter-rouge">sklearn</code>, <code class="language-plaintext highlighter-rouge">pandas</code>, <code class="language-plaintext highlighter-rouge">numpy</code></li>
-  <li><strong>NLP</strong>: <code class="language-plaintext highlighter-rouge">spaCy</code>, <code class="language-plaintext highlighter-rouge">nltk</code>, <code class="language-plaintext highlighter-rouge">pattern</code>, <code class="language-plaintext highlighter-rouge">gensim</code></li>
-  <li><strong>Deployment</strong>: <code class="language-plaintext highlighter-rouge">AWS SageMaker</code>, <code class="language-plaintext highlighter-rouge">Docker</code>, <code class="language-plaintext highlighter-rouge">Kubernetes</code></li>
-  <li><strong>Visualization</strong>: <code class="language-plaintext highlighter-rouge">Plotly</code>, <code class="language-plaintext highlighter-rouge">D3.js</code>, <code class="language-plaintext highlighter-rouge">p5.js</code>, <code class="language-plaintext highlighter-rouge">Tableau</code></li>
-</ul>
-
 <table>
   <tbody>
     <tr>
@@ -342,12 +319,26 @@
   </tbody>
 </table>
 
-<h2 id="other-skills-and-tools">Other skills and tools</h2>
+<h2 id="data-science-skills-and-tools">Skills</h2>
 <ul>
-  <li><strong>Cloud</strong>: AWS, OpenStack, Pivotal Could Foundry</li>
+  <li><strong>Languages</strong>: <code class="language-plaintext highlighter-rouge">Python</code>, <code class="language-plaintext highlighter-rouge">R</code>, <code class="language-plaintext highlighter-rouge">SQL</code>, <code class="language-plaintext highlighter-rouge">MATLAB</code>, <code class="language-plaintext highlighter-rouge">SAS</code></li>
+  <li><strong>Deep Learning</strong>: <code class="language-plaintext highlighter-rouge">PyTorch</code>, <code class="language-plaintext highlighter-rouge">TensorFlow</code></li>
+  <li><strong>Machine Learning</strong>: <code class="language-plaintext highlighter-rouge">sklearn</code>, <code class="language-plaintext highlighter-rouge">pandas</code>, <code class="language-plaintext highlighter-rouge">numpy</code></li>
+  <li><strong>NLP</strong>: <code class="language-plaintext highlighter-rouge">spaCy</code>, <code class="language-plaintext highlighter-rouge">nltk</code>, <code class="language-plaintext highlighter-rouge">pattern</code>, <code class="language-plaintext highlighter-rouge">gensim</code></li>
+  <li><strong>Deployment</strong>: <code class="language-plaintext highlighter-rouge">AWS SageMaker</code>, <code class="language-plaintext highlighter-rouge">Docker</code>, <code class="language-plaintext highlighter-rouge">Kubernetes</code></li>
+  <li><strong>Visualization</strong>: <code class="language-plaintext highlighter-rouge">Plotly</code>, <code class="language-plaintext highlighter-rouge">D3.js</code>, <code class="language-plaintext highlighter-rouge">p5.js</code>, <code class="language-plaintext highlighter-rouge">Tableau</code></li>
+   <li><strong>Cloud</strong>: AWS, OpenStack, Pivotal Could Foundry</li>
   <li><strong>CI/CD</strong>: Concourse, Jenkins, CircleCI</li>
   <li><strong>IAC</strong>: <code class="language-plaintext highlighter-rouge">Boto3</code>, <code class="language-plaintext highlighter-rouge">Terraform</code></li>
+  <li><strong>Languages</strong>: <code class="language-plaintext highlighter-rouge">Python</code>, <code class="language-plaintext highlighter-rouge">SQL</code>, <code class="language-plaintext highlighter-rouge">Java</code></li>
+  <li><strong>Databases</strong>: Postgres, Mysql, Oracle, AWS RDS, DynamoDB, RedShift</li>
+  <li><strong>Modeling</strong>: Dimensional data modeling</li>
+  <li><strong>Batch ETL</strong>: Python, <code class="language-plaintext highlighter-rouge">SparkSQL</code></li>
+  <li><strong>Streaming ETL</strong>: <code class="language-plaintext highlighter-rouge">Kafka</code>, <code class="language-plaintext highlighter-rouge">Faust</code>, <code class="language-plaintext highlighter-rouge">KSQL</code>, <code class="language-plaintext highlighter-rouge">Spark Streaming</code></li>
+  <li><strong>Workflow Management</strong>: <code class="language-plaintext highlighter-rouge">Airflow</code></li>
 </ul>
+
+
 
 <h2 id="certifications">Certifications</h2>
 <ul>
