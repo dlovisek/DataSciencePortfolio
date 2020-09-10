@@ -202,7 +202,7 @@
           
         
           
-            <li><a href="https://www.datacamp.com/profile/shravan" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-campground" aria-hidden="true"></i> DataCamp</a></li>
+           
           
         
           
@@ -306,7 +306,7 @@
         
         <p><strong>Bio</strong>: A Data Scientist with strong background in Data Engineering.</p>
 
-<p>Through a rigorous coursework I have deepened my understanding of <strong>Statistics</strong>, <strong>Experimental Design</strong>, <strong>Machine Learning</strong> and <strong>Natural Language Processing</strong>. I have done several projects which make use of skills from Data Engineering and Data Science to answer questions using data.</p>
+<p>Through work experience and coursework I have deepened my understanding of <strong>Statistics</strong>, <strong>Experimental Design</strong>, <strong>Machine Learning</strong> and <strong>Natural Language Processing</strong>. I have done several projects which make use of skills from Data Engineering and Data Science to answer questions using data.</p>
 
 <p>I consider myself a hybrid of a Data Engineer and Data Scientist.</p>
 
@@ -320,7 +320,7 @@
   <li><strong>Workflow Management</strong>: <code class="language-plaintext highlighter-rouge">Airflow</code></li>
 </ul>
 
-<p><a href="https://shravan-kuchkula.github.io/data-engineering/" class="btn btn--success">Data Engineering Projects</a></p>
+<p><a href="https://dlovisek.github.io/data-engineering/" class="btn btn--success">Data Engineering Projects</a></p>
 
 <h2 id="data-science-skills-and-tools">Data Science skills and tools</h2>
 <ul>
@@ -335,9 +335,9 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://shravan-kuchkula.github.io/nlp/" class="btn btn--success">NLP Projects</a></td>
-      <td><a href="https://shravan-kuchkula.github.io/machine-learning/" class="btn btn--danger">Machine Learning Projects</a></td>
-      <td><a href="https://shravan-kuchkula.github.io/deep-learning/" class="btn btn--info">Deep Learning Projects</a></td>
+      <td><a href="https://dlovisek.github.io/nlp/" class="btn btn--success">NLP Projects</a></td>
+      <td><a href="https://dlovisek.github.io/machine-learning/" class="btn btn--danger">Machine Learning Projects</a></td>
+      <td><a href="https://dlovisek.github.io/deep-learning/" class="btn btn--info">Deep Learning Projects</a></td>
     </tr>
   </tbody>
 </table>
@@ -353,15 +353,9 @@
 <ul>
   <li><strong>AWS Certified Developer - Associate</strong> (Expires: July 2023)</li>
 </ul>
-<p align="center">
-<a href="https://www.youracclaim.com/badges/433c6bb1-f997-4a26-ba93-4d064aec8424"><img src="../images/aws_cert.png" title="AWS Certified Developer - Associate" width="150" height="150" /></a>
-</p>
 
-<h2 id="publications">Publications</h2>
-<ul>
-  <li><strong><a href="https://scholar.smu.edu/cgi/viewcontent.cgi?article=1075&amp;context=datasciencereview">Self-Driving Cars: Evaluation of Deep Learning Techniques for Object Detection in Different Driving Conditions</a></strong></li>
-  <li><strong><a href="https://towardsdatascience.com/use-data-science-to-find-your-next-airbnb-getaway-3cb9c8333ad1">Use Data Science to find your next Airbnb getaway</a></strong></li>
-</ul>
+
+
 
         
       </section>
