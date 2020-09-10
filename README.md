@@ -14,28 +14,7 @@
 <meta property="og:url" content="https://dlovisek.github.io/DataSciencePortfolio/">
 
 
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-
-
 <link rel="canonical" href="https://dlovisek.github.io/DataSciencePortfolio/">
-
-
-
-
-
-
 
   <script type="application/ld+json">
     {
@@ -178,7 +157,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">New York City</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Toronto</span>
         </li>
       
 
